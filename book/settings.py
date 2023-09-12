@@ -78,10 +78,11 @@ WSGI_APPLICATION = 'book.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'bookapi_db',
-        'USER': 'postgres',
-        'PASSWORD': 'C1h2a3r4l5e6s7',
-        'HOST': 'localhost'
+        'HOSTNAME': 'dpg-ck0btqhau56s73c6noug-a',
+        'USERNAME': 'bookapi_db_user',
+        'PORT': '5432',
+        'PASSWORD': 'pOIOlObpgp68Aso88l6V8IknfmjN2NVg',
+        'DATABASE_NAME': 'bookapi_db'
     }
 }
 
