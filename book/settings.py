@@ -25,7 +25,7 @@ SECRET_KEY = '-2l)dk4*$x34hud=03_67qq&1(6xr^11in56*(hrq$9v$_hpd7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['book-api-haw2.onrender.com']
+ALLOWED_HOSTS = ['book-api-project.onrender.com']
 
 
 # Application definition
