@@ -43,6 +43,5 @@ UML DIGARAM
 
 
 
-![Blank board](https://github.com/Burger-karl/book/assets/116649077/97564674-c97b-4763-88c5-4dc30ac1181c)
 
 
