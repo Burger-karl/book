@@ -39,7 +39,16 @@ PUT request is to update a particular book and call the REST endpoint '/api/id'.
 DELETE request is to delete a particular book and call the REST endpoint '/api/id'. The 'id' is passed as an argument to the endpoint. 
 
 
+
 UML DIGARAM
+
+
+
+
+
+
+![Blank board](https://github.com/Burger-karl/book/assets/116649077/e6d74f93-e246-4759-bac4-83a490644d8b)
+
 
 
 
